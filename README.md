@@ -8,7 +8,7 @@ Projeto desenvolvido durante o curso Explorer da Rocketseat, ao final dos módul
 
 
 <a target="_blank"
-     href="https://gomesfilho-developer.github.io/projeto-02/">
+     href="https://gomesfilho-developer.github.io/projeto-03/">
           Clique aqui para ter acesso
         </a>
 
