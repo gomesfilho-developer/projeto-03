@@ -1,6 +1,6 @@
 # projeto-03
 
-![preview](./.github/preview.png)
+![preview](./.preview/preview.png)
 
 > Trilha Explorer
 
